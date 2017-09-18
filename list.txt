@@ -1,0 +1,24 @@
+Sonology|Private|https://www.synology.com/en-global/support/bounty_program#acknowledgement|Sajibe Kanti
+Medium|Private|http://medium.com/humans.txt|Sajibe Kanti
+Heroku|Private|https://bugcrowd.com/heroku/hall-of-fame|Sajibe Kanti
+Bitdefender|Clickjacking|https://www.bitdefender.com/site/view/bug-bounty.html|Sajibe Kanti
+Posteo|Code Bug|https://posteo.de/site/security_transparency|Sajibe Kanti
+eCARE|Private|http://ecare.nl/hall-of-fame/|Sajibe Kanti
+Jet.com|Private|https://bugcrowd.com/jet/hall-of-fame|Ismail Hossain
+Sony|XSS|https://secure.sony.net/hallofthanks|Sajibe Kanti
+SendSafely|Info Disclouse|https://bugcrowd.com/sendsafely|Sajibe Kanti
+FoxyCart|SSL info|https://bugcrowd.com/foxycart|Sajibe Kanti
+Indeed|XSS|https://bugcrowd.com/indeed|Sajibe Kanti
+CodePen|Content Injection|https://bugcrowd.com/codepen|Sajibe Kanti
+Intercom|Session|https://bugcrowd.com/intercom|Sajibe Kanti
+HubSpot|Seeion, Web Version Disclouse|https://bugcrowd.com/hubspot|Sajibe Kanti
+InVision|Session, Content Injection|https://bugcrowd.com/hubspot|Sajibe Kanti
+Mobrand|Session, XSS|https://bugcrowd.com/invision|Sajibe Kanti
+Tesla|XSS|https://bugcrowd.com/tesla|Sajibe Kanti
+CERT-EU|XSS|https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html|Sajibe Kanti
+Auto Trader|XSS, Session|https://www.autotrader.co.uk/hall-of-fame|Sajibe Kanti
+Medium|XSS, Api Error, Session|https://medium.com/humans.txt|Sajibe Kanti
+Teamtailor|XSS|http://resources.teamtailor.com/vulnerability|Sajibe Kanti
+Codeship|XSS|http://codeship.com/|Sajibe Kanti
+KNB|Content Injection|https://www.knb.nl/responsible-disclosure-hall-of-fame|Sajibe Kanti
+Coret Genealogy|Content Injection|https://genealogie.coret.org/responsible_disclosure#gemeld|Sajibe Kanti
